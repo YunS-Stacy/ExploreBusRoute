@@ -1,0 +1,8 @@
+/*Define the height only to define the column height*/
+#map {
+  height:60rem;
+}
+.row.clearfix#buttonGroup {
+    position: absolute;
+    bottom: 6rem;
+}
